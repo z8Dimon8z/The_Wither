@@ -7,7 +7,7 @@ var mySwiper = new Swiper('.swiper-container', {
     // Responsive breakpoints
   breakpoints: {
     // when window width is >= 640px
-    540: {
+    640: {
       slidesPerView: 2,
     }
   }

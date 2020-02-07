@@ -155,7 +155,7 @@ body {
     align-items: center;
     margin-bottom: 60px;
     position: relative;
-    max-width: 450px;
+    max-width: 375px;
 }
 
 .card {
@@ -259,7 +259,7 @@ body {
 }
 
 .swiper-container {
-    max-width: 420px;
+    max-width: 375px;
     margin-left: 0;
 }
 
